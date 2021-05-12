@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.9",
     "quasar": "^1.0.0"
   },
   "devDependencies": {
